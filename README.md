@@ -1,3 +1,3 @@
 # Insurance Premium Prediction
 
-### Project
+### Folder Structure
