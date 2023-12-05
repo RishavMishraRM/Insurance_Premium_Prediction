@@ -23,7 +23,7 @@ $ tree
 │    
 ├── Notebook
 │   ├── Data
-│   │    └── gemstone.csv(original data)
+│   │    └── insurance.csv(original data)
 │   ├── research.ipynb
 │   ├── Model_Training.ipynb
 │   └── EDA.ipynb
