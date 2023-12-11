@@ -20,7 +20,7 @@ $ tree
 │   ├── test.csv
 │   └── train.csv
 │    
-├── logs
+├── Insurance_Premium_Prediction.egg-info(log_files)
 │   └── log files
 │    
 ├── Notebook
