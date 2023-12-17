@@ -67,7 +67,7 @@ $ tree
 │
 ├── requirements.txt
 │
-├── LICENSE
+├── MIT License
 │
 ├── setup.py
 │
