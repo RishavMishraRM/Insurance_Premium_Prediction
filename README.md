@@ -2,7 +2,7 @@
 
 Insurance premium prediction with data
 
-
+Completed EDA, 
 
 ### Folder Structure
 
