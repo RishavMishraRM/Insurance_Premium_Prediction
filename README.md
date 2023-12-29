@@ -2,7 +2,7 @@
 
 Insurance premium prediction with data
 
-Completed EDA, 
+Completed EDA, Feature Engineering
 
 ### Folder Structure
 
