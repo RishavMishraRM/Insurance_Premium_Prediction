@@ -3,9 +3,8 @@
 Insurance premium prediction with data
 
 Reasearch Notebook file : 
-1. EDA, 
-2. Feature Engineering 
-3. Code testing
+1. EDA 
+2. Feature Engineering Code testing
 
 ### Folder Structure
 
