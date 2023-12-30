@@ -2,7 +2,7 @@
 
 Insurance premium prediction with data
 
-Reasearch Notebook file : 
+Reasearch Notebook files : 
 1. EDA 
 2. Feature Engineering 
 3. Code testing
