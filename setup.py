@@ -1,4 +1,4 @@
-from setuptools import find_packages,setup
+from setuptools import find_packages, setup
 from typing import List
 
 """HYPEN_E_DOT='-e .'
@@ -15,10 +15,10 @@ def get_requirements(file_path:str)->List[str]:
     return requirements"""
 
 setup(
-    name='Insurance_Premium_Prediction',
-    version='0.0.1',
-    author='Rishav Mishra',
-    author_email='rishav.mishra.rkm@gmail.com',
-    install_requires=["scikit-learn","pandas","numpy"],
-    packages=find_packages()
+    name="Insurance_Premium_Prediction",
+    version="0.0.1",
+    author="Rishav Mishra",
+    author_email="rishav.mishra.rkm@gmail.com",
+    install_requires=["scikit-learn", "pandas", "numpy"],
+    packages=find_packages(),
 )
