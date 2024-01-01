@@ -7,6 +7,8 @@ Reasearch Notebook files :
 2. Feature Engineering 
 3. Code testing
 
+Using black to organise code
+
 ### Folder Structure
 
 ```console
