@@ -2,9 +2,10 @@
 
 Insurance premium prediction with data
 
-Reasearch Notebook files : 
-1. EDA 
-2. Feature Engineering 
+Reasearch Notebook files :
+
+1. 1_EDA Insurance dataset
+2. Feature Engineering
 3. Code testing
 
 Using black to organise code
@@ -26,10 +27,10 @@ $ tree
 │   ├── raw.csv
 │   ├── test.csv
 │   └── train.csv
-│    
+│
 ├── Insurance_Premium_Prediction.egg-info(log_files)
 │   └── log files
-│    
+│
 ├── Notebook
 │   ├── Data
 │   │    └── insurance.csv(original data)
@@ -44,20 +45,20 @@ $ tree
 │              │     ├── data_transformation.py
 │              │     ├── data_ingestion.py
 │              │     └── model_trainer.py
-│              │  
+│              │
 │              ├── Pipelines
 │              │     ├── __init__.py
 │              │     ├── prediction_pipeline.py
 │              │     └── training_pipeline.py
-│              │  
+│              │
 │              │── Utils
 │              │     ├── __init__.py
 │              │     └── utils.py
 │              │
 │              ├── __init__.py
 │              ├── exception.py
-│              └── logger.py 
-│  
+│              └── logger.py
+│
 │
 ├── templates
 │   ├── form.html
@@ -68,7 +69,7 @@ $ tree
 │
 ├── Dockerfile
 │
-├── .gitignore  
+├── .gitignore
 │
 ├── app.py
 │
@@ -84,4 +85,3 @@ $ tree
 │
 └── init_setup.sh
 ```
-
