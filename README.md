@@ -34,6 +34,7 @@ $ tree
 ├── Notebook
 │   ├── Data
 │   │    └── insurance.csv(original data)
+│   ├──catboost_info
 │   ├── research.ipynb
 │   ├── Model_Training.ipynb
 │   └── EDA.ipynb
