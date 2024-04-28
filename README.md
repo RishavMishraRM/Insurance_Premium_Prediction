@@ -35,6 +35,11 @@ $ tree
 │   ├── Data
 │   │    └── insurance.csv(original data)
 │   ├──catboost_info
+│   │    │── catboost_training.json
+│   │    │── learn_error.tsv
+│   │    │── time_left.tsv
+│   │    └── learn
+│   │           └──events.out.tfevents
 │   ├── research.ipynb
 │   ├── Model_Training.ipynb
 │   └── EDA.ipynb
