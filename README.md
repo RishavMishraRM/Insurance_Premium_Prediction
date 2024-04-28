@@ -4,7 +4,7 @@ Insurance premium prediction with data
 
 Reasearch Notebook files :
 
-1. 1_EDA Insurance dataset
+1. EDA Insurance dataset
 2. Feature Engineering
 3. Code testing
 
