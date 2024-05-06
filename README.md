@@ -9,6 +9,9 @@ Reasearch Notebook files :
 
 Using black to organise code
 
+Key Features
+Data Exploration: Gain insights into the dataset through exploratory data analysis (EDA) to understand the distribution of features, correlations, and potential trends.
+
 ### Folder Structure
 
 ```console
