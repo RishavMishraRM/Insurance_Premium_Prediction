@@ -14,6 +14,8 @@ Data Exploration: Gain insights into the dataset through exploratory data analys
 
 Predictive Modeling: Utilize machine learning algorithms to build a predictive model capable of estimating restaurant ratings based on input features.
 
+Interface: Interact with the model through an intuitive user interface that allows users to input restaurant features and receive a predicted rating.
+
 ### Folder Structure
 
 ```console
