@@ -19,6 +19,10 @@ Using black to organise code
 
 - **Interface:** Interact with the model through an intuitive user interface that allows users to input restaurant features and receive a predicted rating.
 
+## Architecture
+
+- **Python:**
+
 ### Folder Structure
 
 ```console
