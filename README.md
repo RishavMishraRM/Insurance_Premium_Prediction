@@ -9,12 +9,13 @@ Reasearch Notebook files :
 
 Using black to organise code
 
-Key Features
-Data Exploration: Gain insights into the dataset through exploratory data analysis (EDA) to understand the distribution of features, correlations, and potential trends.
+## Key Features
 
-Predictive Modeling: Utilize machine learning algorithms to build a predictive model capable of estimating restaurant ratings based on input features.
+- **Data Exploration:** Gain insights into the dataset through exploratory data analysis (EDA) to understand the distribution of features, correlations, and potential trends.
 
-Interface: Interact with the model through an intuitive user interface that allows users to input restaurant features and receive a predicted rating.
+- **Predictive Modeling:** Utilize machine learning algorithms to build a predictive model capable of estimating restaurant ratings based on input features.
+
+- **Interface:** Interact with the model through an intuitive user interface that allows users to input restaurant features and receive a predicted rating.
 
 ### Folder Structure
 
