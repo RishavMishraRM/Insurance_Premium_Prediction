@@ -33,6 +33,8 @@ Flask is a small and lightweight Python web framework that provides useful tools
 
 A smooth and automated machine learning lifecycle is ensured by using MLOps.Pipelines for continuous integration and deployment (CI/CD) automate model training, deployment, and testing.
 
+- **DAGs Hub:**
+
 ### Folder Structure
 
 ```console
