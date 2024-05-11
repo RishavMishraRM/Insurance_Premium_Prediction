@@ -35,6 +35,8 @@ A smooth and automated machine learning lifecycle is ensured by using MLOps.Pipe
 
 - **DAGs Hub:**
 
+Here I have used DAGs Hub to orchestrate and automate workflows. View and manage your Directed Acyclic Graphs (DAGs) with DAGs Hub.
+
 ### Folder Structure
 
 ```console
